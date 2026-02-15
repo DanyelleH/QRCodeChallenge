@@ -48,14 +48,14 @@ body {
     
         }
         #card {
-            height:fit-content;
+            height: 499px;
             width: 320px fit-content;
             text-align: left;
             align-items: flex-start;
             gap: 24px;
             border-radius: 20px; 
             padding-top: 16px;
-            padding-bottom: 40px;
+            /* padding-bottom: 40px; */
             background-color: hsl(0, 0%, 100%);
             box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
         }
